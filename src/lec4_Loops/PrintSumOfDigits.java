@@ -21,5 +21,6 @@ public class PrintSumOfDigits {
 			num/=10;
 		}
 		System.out.println("Sum of its Digits is: " + sum);
+		sc.close();
 	}
 }

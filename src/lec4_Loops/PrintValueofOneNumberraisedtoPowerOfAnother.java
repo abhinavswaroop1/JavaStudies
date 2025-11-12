@@ -24,7 +24,7 @@ public class PrintValueofOneNumberraisedtoPowerOfAnother {
 		for(int i = 1; i <= powNum ; i++) {
 			val=val*baseNum;
 		}
-		
 		System.out.println("The value of " + baseNum + " raised to the power of " + powNum + " is: " + val);
+		sc.close();
 	}
 }

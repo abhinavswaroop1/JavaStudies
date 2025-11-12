@@ -16,10 +16,7 @@ public class PrintTables {
 		for(int i= 1; i<=10 ; i++) {
 			
 			System.out.println(num + "*" + i + "=" + num*i);
-			
 		}
-		
-
+		sc.close();
 	}
-
 }

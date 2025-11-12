@@ -20,5 +20,6 @@ public class SumOfAllOddNumbersBetween1toN {
 			}
 		}
 		System.out.println("Sum of all odd numbers between 1 to " + n + " is " + sum);
+		sc.close();
 	}
 }

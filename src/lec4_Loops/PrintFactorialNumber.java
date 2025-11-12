@@ -17,5 +17,6 @@ public class PrintFactorialNumber {
 			fact=fact*i;
 		}
 		System.out.println("The factorial value of " + num + " is: " + fact);
+		sc.close();
 	}
 }

@@ -26,5 +26,6 @@ public class ReverseGivenDigits {
           num = num/10;
 		}
 		System.out.println(rev);
+		sc.close();
 		}
 }

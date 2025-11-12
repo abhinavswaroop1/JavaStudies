@@ -19,6 +19,6 @@ public class SumOfAllEvenNumberBetween1toN {
 			}     		
 		}
 		System.out.println("sum of all even numbers between 1 to " +  n + " is " + sum);
+		sc.close();
 	}
-
 }

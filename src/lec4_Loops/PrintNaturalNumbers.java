@@ -18,7 +18,7 @@ public class PrintNaturalNumbers {
 		while(i<=e) {
 			System.out.println(i);
 			i++;
-		}
-			  
-		 }	
+		}  
+	sc.close();
+	}	
 }

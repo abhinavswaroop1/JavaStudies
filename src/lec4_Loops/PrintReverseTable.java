@@ -14,12 +14,8 @@ public class PrintReverseTable {
 		System.out.println("The Table of " + num + " in reverse order is below: ");
 		
 		for(int i= 10 ; i>=1 ; i--) {
-			
 			System.out.println(num + "*" + i + "=" + i*num);
-			
 		}
-		
-
+		sc.close();
 	}
-
 }

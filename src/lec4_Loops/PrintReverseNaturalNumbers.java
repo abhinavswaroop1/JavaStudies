@@ -20,8 +20,7 @@ public class PrintReverseNaturalNumbers {
 			System.out.println(l);
 			l--;
 		}
-		
-
+		sc.close();
 	}
 
 }
