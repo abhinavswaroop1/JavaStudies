@@ -1,7 +1,5 @@
 package lec5_Array;
 
-import java.util.Arrays;
-
 /* Find Missing Number In Array
  * a[] = {1,4,5,3};
  * 
